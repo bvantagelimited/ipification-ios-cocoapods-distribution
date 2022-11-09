@@ -206,6 +206,8 @@ public enum IPEnvironment {
   public var debug: Swift.Bool
   public var customUrls: Swift.Bool
   public static let sharedInstance: IPificationSDK.IPConfiguration
+  public var SDK_LOG_URL_STAGE: Swift.String
+  public var SDK_LOG_URL_LIVE: Swift.String
   public func generateState() -> Swift.String
   public func generateHeaderLogs(inputPhone: Swift.String, CLIENT_IP: Swift.String?)
   @objc deinit

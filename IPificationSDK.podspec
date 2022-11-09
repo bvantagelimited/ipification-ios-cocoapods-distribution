@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name          = 'IPificationSDK'
-    spec.version       = '2.0.8'
+    spec.version       = '2.0.9'
     spec.license = { :type => "MIT", :file => "LICENSE" }
     spec.homepage      = 'https://github.com/bvantagelimited/ipification-ios-cocoapods-distribution'
     spec.authors       = { 'IPification' => 'info@ipification.com' }
