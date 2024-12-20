@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/IPificationSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		XkhuOM8NM2TirMULaIHrtJk2kRs=
+		hBYNxQ0rwRxZo+lMHPyNu+1yMJg=
 		</data>
 		<key>Modules/IPificationSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/IPificationSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aiOV4wCHmVNZSBRf6BJ1Q5MlhKA=
+		Iq5Qt8IYxUiFaRpQubCyNSsJpOE=
 		</data>
 		<key>Modules/IPificationSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		XkhuOM8NM2TirMULaIHrtJk2kRs=
+		hBYNxQ0rwRxZo+lMHPyNu+1yMJg=
 		</data>
 		<key>Modules/IPificationSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/IPificationSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7bK+ZPuCbd2ydJ9hOBe5LfRkFcY=
+		izNMNnhuZ9y6f2WLKMJU3ODNWzk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -239,11 +239,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XkhuOM8NM2TirMULaIHrtJk2kRs=
+			hBYNxQ0rwRxZo+lMHPyNu+1yMJg=
 			</data>
 			<key>hash2</key>
 			<data>
-			i/GkAzWLNCxEs+/CcVFHkvaFG002dA45KH+nNBeuC8Q=
+			4oNYDWhQMT2yXIDi4at44VD0LNdNjH6j8UVc/SpvmcY=
 			</data>
 		</dict>
 		<key>Modules/IPificationSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -283,22 +283,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aiOV4wCHmVNZSBRf6BJ1Q5MlhKA=
+			Iq5Qt8IYxUiFaRpQubCyNSsJpOE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tn6WlZEnQpzDvRKRNk08mZhzOLzOkJ8ltSfSCL7yL7Y=
+			+VTrRBuESHszNiagzTTVmEMVpL+3yWBG7haquGuH5t8=
 			</data>
 		</dict>
 		<key>Modules/IPificationSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XkhuOM8NM2TirMULaIHrtJk2kRs=
+			hBYNxQ0rwRxZo+lMHPyNu+1yMJg=
 			</data>
 			<key>hash2</key>
 			<data>
-			i/GkAzWLNCxEs+/CcVFHkvaFG002dA45KH+nNBeuC8Q=
+			4oNYDWhQMT2yXIDi4at44VD0LNdNjH6j8UVc/SpvmcY=
 			</data>
 		</dict>
 		<key>Modules/IPificationSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -338,11 +338,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7bK+ZPuCbd2ydJ9hOBe5LfRkFcY=
+			izNMNnhuZ9y6f2WLKMJU3ODNWzk=
 			</data>
 			<key>hash2</key>
 			<data>
-			3UIn/yJCQ0rJte8co5RNaNXqzpYimnCRcXemR/dJtrY=
+			Tza7QpOQR4CHUVzmIGl7pF6o/X5Ylf0l3HWIUllzCYM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

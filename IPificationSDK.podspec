@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name          = 'IPificationSDK'
-    spec.version       = '2.1.3.1'
+    spec.version       = '2.1.3.2'
     spec.license = { :type => "MIT", :file => "LICENSE" }
     spec.homepage      = 'https://github.com/bvantagelimited/ipification-ios-cocoapods-distribution'
     spec.authors       = { 'IPification' => 'info@ipification.com' }
@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
     spec.vendored_frameworks = "IPificationSDK.xcframework"
     spec.source       = { :git => 'https://github.com/bvantagelimited/ipification-ios-cocoapods-distribution.git', :tag => spec.version }
     spec.platform = :ios
-    spec.ios.deployment_target  = '12.0'
+    spec.ios.deployment_target  = '10.0'
     spec.swift_version = '5.1'
 
 
