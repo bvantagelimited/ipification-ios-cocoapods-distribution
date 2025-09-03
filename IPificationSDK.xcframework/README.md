@@ -3,4 +3,4 @@ an SDK for Authentication flow
 
 #Document: https://developer.ipification.com/#/ios/latest/
 
-Version 2.1.8 (Xcode 16) (June 09 2025)
+Version 2.1.9 (Xcode 16) (June 09 2025)
